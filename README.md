@@ -2,13 +2,13 @@
 [![npm version](https://img.shields.io/npm/v/@xzdarcy/react-timeline-editor.svg?style=flat-square)](https://www.npmjs.com/package/@xzdarcy/react-timeline-editor)
 [![npm downloads](https://img.shields.io/npm/dm/@xzdarcy/react-timeline-editor.svg?style=flat-square)](https://www.npmjs.com/package/@xzdarcy/react-timeline-editor)
 
-**[React Timeline Editor](https://zdarcy.com/)** is a react component used to quickly build a timeline animation editor.
+**[React Timeline Editor](https://zdarcy.com/)** is a react component used to quickly build a timeline animation editor. By Vite + TypeScript
 
 ![example](https://github.com/xzdarcy/react-timeline-editor/blob/f79d85eee8a723e5210c04232daf2c51888418c0/public/assets/timeline.gif)
 ## Getting Started
 
 ```bash
-npm install @xzdarcy/react-timeline-editor
+npm install @aangelojo/react-timeline-editor
 ```
 
 ```ts
